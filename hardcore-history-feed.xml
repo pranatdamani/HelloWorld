@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.apple.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Hardcore History – Wrath of the Khans</title>
     <link>https://www.dancarlin.com/hardcore-history-series/</link>
@@ -8,70 +8,75 @@
     <itunes:author>Dan Carlin</itunes:author>
     <itunes:summary>Personal feed for Wrath of the Khans episodes.</itunes:summary>
     <itunes:explicit>true</itunes:explicit>
-    <itunes:image href="https://www.dancarlin.com/wp-content/uploads/2024/04/hardcore-history-47-wrath-of-the-khans-by-dan-carlin.jpg"/>
+    <itunes:image href="https://www.dancarlin.com/wp-content/uploads/2024/04/hardcore-history-47-wrath-of-the-khans-by-dan-carlin.jpg?v=2"/>
+    <image>
+      <url>https://www.dancarlin.com/wp-content/uploads/2024/04/hardcore-history-47-wrath-of-the-khans-by-dan-carlin.jpg?v=2</url>
+      <title>Hardcore History – Wrath of the Khans</title>
+      <link>https://www.dancarlin.com/hardcore-history-series/</link>
+    </image>
 
     <item>
       <title>Episode 43 – Wrath of the Khans I</title>
-      <description>Wrath of the Khans I</description>
+      <description>In one of the most violent outbursts in history, a little-known tribe of Eurasian nomads breaks upon the great societies of the Old World like a human tsunami.</description>
       <itunes:title>Episode 43 – Wrath of the Khans I</itunes:title>
       <itunes:author>Dan Carlin</itunes:author>
       <itunes:summary>Wrath of the Khans I</itunes:summary>
-      <itunes:image href="https://www.dancarlin.com/wp-content/uploads/2024/04/hardcore-history-47-wrath-of-the-khans-by-dan-carlin.jpg"/>
+      <itunes:image href="https://www.dancarlin.com/wp-content/uploads/2024/04/hardcore-history-47-wrath-of-the-khans-by-dan-carlin.jpg?v=43"/>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Gr5I483bpwNzD_-cwm_73z4PjVsjthE3" length="104447471" type="audio/mpeg"/>
       <guid isPermaLink="false">1Gr5I483bpwNzD_-cwm_73z4PjVsjthE3</guid>
     </item>
 
     <item>
       <title>Episode 44 – Wrath of the Khans II</title>
-      <description>Wrath of the Khans II</description>
+      <description>The Mongol leader Genghis Khan displays unmatched strategic genius while moving against Northern China and the Eastern Islamic world.</description>
       <itunes:title>Episode 44 – Wrath of the Khans II</itunes:title>
       <itunes:author>Dan Carlin</itunes:author>
       <itunes:summary>Wrath of the Khans II</itunes:summary>
-      <itunes:image href="https://www.dancarlin.com/wp-content/uploads/2024/04/hardcore-history-47-wrath-of-the-khans-by-dan-carlin.jpg"/>
+      <itunes:image href="https://www.dancarlin.com/wp-content/uploads/2024/04/hardcore-history-47-wrath-of-the-khans-by-dan-carlin.jpg?v=44"/>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1DULXLAUjnvMSsn-YrxkzySvQqeTmNj6P" length="92080631" type="audio/mpeg"/>
       <guid isPermaLink="false">1DULXLAUjnvMSsn-YrxkzySvQqeTmNj6P</guid>
     </item>
 
     <item>
       <title>Episode 45 – Wrath of the Khans III</title>
-      <description>Wrath of the Khans III</description>
+      <description>The expansion of Genghis Khan's conquests continues, with Europe and China feeling the effects of Mongol warfare and retribution.</description>
       <itunes:title>Episode 45 – Wrath of the Khans III</itunes:title>
       <itunes:author>Dan Carlin</itunes:author>
       <itunes:summary>Wrath of the Khans III</itunes:summary>
-      <itunes:image href="https://www.dancarlin.com/wp-content/uploads/2024/04/hardcore-history-47-wrath-of-the-khans-by-dan-carlin.jpg"/>
+      <itunes:image href="https://www.dancarlin.com/wp-content/uploads/2024/04/hardcore-history-47-wrath-of-the-khans-by-dan-carlin.jpg?v=45"/>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1v1wca0adG-i-9uMIh7HGCqNeoWQRIrgU" length="86264767" type="audio/mpeg"/>
       <guid isPermaLink="false">1v1wca0adG-i-9uMIh7HGCqNeoWQRIrgU</guid>
     </item>
 
     <item>
       <title>Episode 46 – Wrath of the Khans IV</title>
-      <description>Wrath of the Khans IV</description>
+      <description>The death of Genghis Khan should have slowed the Mongol conquests, but instead they accelerated, with Europe on the Mongol hit list.</description>
       <itunes:title>Episode 46 – Wrath of the Khans IV</itunes:title>
       <itunes:author>Dan Carlin</itunes:author>
       <itunes:summary>Wrath of the Khans IV</itunes:summary>
-      <itunes:image href="https://www.dancarlin.com/wp-content/uploads/2024/04/hardcore-history-47-wrath-of-the-khans-by-dan-carlin.jpg"/>
+      <itunes:image href="https://www.dancarlin.com/wp-content/uploads/2024/04/hardcore-history-47-wrath-of-the-khans-by-dan-carlin.jpg?v=46"/>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1oQCxgfqDaSXqp_fJ8iD0fx-s4NQ1Yn0O" length="88602066" type="audio/mpeg"/>
       <guid isPermaLink="false">1oQCxgfqDaSXqp_fJ8iD0fx-s4NQ1Yn0O</guid>
     </item>
 
     <item>
       <title>Episode 47 EXTRA – Wrath of the Khans</title>
-      <description>Wrath of the Khans EXTRA</description>
+      <description>A Director's Cut-style addendum to Hardcore History 47, with cutting-room-floor material and Dan discussing the challenges of making Wrath of the Khans.</description>
       <itunes:title>Episode 47 EXTRA – Wrath of the Khans</itunes:title>
       <itunes:author>Dan Carlin</itunes:author>
       <itunes:summary>Wrath of the Khans EXTRA</itunes:summary>
-      <itunes:image href="https://www.dancarlin.com/wp-content/uploads/2024/04/hardcore-history-47-wrath-of-the-khans-by-dan-carlin.jpg"/>
+      <itunes:image href="https://www.dancarlin.com/wp-content/uploads/2024/04/hardcore-history-47-wrath-of-the-khans-by-dan-carlin.jpg?v=47extra"/>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sRH2_BXIgrDeNQn2f9eC9Z9SMLF4IXj0" length="87649665" type="audio/mpeg"/>
       <guid isPermaLink="false">1sRH2_BXIgrDeNQn2f9eC9Z9SMLF4IXj0</guid>
     </item>
 
     <item>
       <title>Episode 47 – Wrath of the Khans V</title>
-      <description>Wrath of the Khans V</description>
+      <description>Succession issues weaken the Mongol Empire as the grandchildren of Genghis Khan fight over their imperial inheritance.</description>
       <itunes:title>Episode 47 – Wrath of the Khans V</itunes:title>
       <itunes:author>Dan Carlin</itunes:author>
       <itunes:summary>Wrath of the Khans V</itunes:summary>
-      <itunes:image href="https://www.dancarlin.com/wp-content/uploads/2024/04/hardcore-history-47-wrath-of-the-khans-by-dan-carlin.jpg"/>
+      <itunes:image href="https://www.dancarlin.com/wp-content/uploads/2024/04/hardcore-history-47-wrath-of-the-khans-by-dan-carlin.jpg?v=47"/>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=14s3dWvGESO9KlGRAlmkzan6pAW5ofhBC" length="122485610" type="audio/mpeg"/>
       <guid isPermaLink="false">14s3dWvGESO9KlGRAlmkzan6pAW5ofhBC</guid>
     </item>
